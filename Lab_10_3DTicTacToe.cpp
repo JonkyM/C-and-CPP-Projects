@@ -1,4 +1,3 @@
-// I made this April 15th, 2022
 // My class is CSE 130 and my Lab number is no. 1 
 // with the Section letter A
 // This program was crated using OOP concepts and derived classes learned in class
