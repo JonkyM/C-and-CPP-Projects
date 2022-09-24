@@ -1,4 +1,3 @@
-// My name is John Kendrick Mejia.
 // I made this March 31st, 2022
 // My class is CSE 130 and my Lab number is no. 1 
 // with the Section letter A
