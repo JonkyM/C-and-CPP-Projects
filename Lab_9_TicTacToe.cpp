@@ -3,7 +3,6 @@
 // with the Section letter A
 // This program was crated using OOP concepts learned in class
 // it allows you to play a game of tic tac toe against the computer
-// the AI is dumb tho so winning is increadibly easy.
 
 #include <iostream>
 #include <string>
