@@ -2,7 +2,6 @@
 // with the Section letter A
 // This program was crated using OOP concepts and derived classes learned in class
 // it allows you to play a game of 3D tic tac toe against the computer
-// the AI is dumb tho so winning is increadibly easy.
 
 #include <iostream>
 #include <string>
